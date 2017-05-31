@@ -1,3 +1,3 @@
-class skeleton {
+object skeleton {
   def fish = ">-+++(o>"
 }
