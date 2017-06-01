@@ -1,1 +1,1 @@
-addSbtPlugin("libling" % "sbt-hackling" % "0.1+2-1d9229de+20170531-1917")
+addSbtPlugin("libling" % "sbt-hackling" % "0.1+14-300f3c40")
