@@ -9,7 +9,7 @@ Add this libling to your sbt project:
 * `project/plugins.sbt`
     
       resolvers += Resolver.bintrayIvyRepo("jastice","sbt-plugins")    
-      addSbtPlugin("libling" % "sbt-hackling" % "0.1+32-375617a1")
+      addSbtPlugin("libling" % "sbt-hackling" % "0.2.1")
 
 * `build.sbt`
 
