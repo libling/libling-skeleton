@@ -14,7 +14,7 @@ Add this libling to your sbt project:
 * `build.sbt`
 
       sourceDependencies += Dependency(
-        Version("20b4f2e74257988de6d49e17fc2fda622d48badc"),
+        Version("165047f978851daf46c94e4cef3456b684dab23e"),
         Repositories(uri("https://github.com/libling/libling-skeleton.git")))
 
 I promise this will become easier and prettier.
