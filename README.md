@@ -14,7 +14,7 @@ Add this libling to your sbt project:
 * `build.sbt`
 
       sourceDependencies += Dependency(
-        Version("165047f978851daf46c94e4cef3456b684dab23e"),
+        Version("ef33ab5a6eac7af6b2f6a8d238ccdc88e25171a2"),
         Repositories(uri("https://github.com/libling/libling-skeleton.git")))
 
 I promise this will become easier and prettier.
@@ -30,6 +30,6 @@ In your code:
 
 ```scala
 object main extends App {
-  println(skeleton.fish)
+  println(cellar.skeleton.fish)
 }
 ```
